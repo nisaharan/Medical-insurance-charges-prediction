@@ -1,4 +1,4 @@
-# Pyspark
+# Medical-insurance-charges-prediction
 
 Modelled the Medical insurance charges with the help of distributed computing platform Pyspark in Databricks.
 Used 2 models for this purpose.
